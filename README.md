@@ -1,2 +1,9 @@
 # rainbow-poem
-this is my first(practice) repository
+The Rainbow
+
+Blue 
+Red 
+Indigo
+Violet
+Orange
+Yellow
