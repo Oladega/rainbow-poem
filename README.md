@@ -1,10 +1,11 @@
 # rainbow-poem
-The Rainbow
+The Rainbow and the unicorn
 
 Blue 
 Green
 Red 
 Indigo
+unicorn
 Violet
 Orange
 Yellow
