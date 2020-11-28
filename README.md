@@ -5,6 +5,7 @@ Blue
 Green
 Red 
 Indigo
+today is saturday
 purple
 unicorn
 Violet
